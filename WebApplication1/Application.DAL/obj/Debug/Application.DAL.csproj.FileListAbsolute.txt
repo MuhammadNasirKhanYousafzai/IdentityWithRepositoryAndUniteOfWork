@@ -1,0 +1,12 @@
+F:\Nasir\WebApplication1\Application.DAL\obj\Debug\Application.DAL.csprojResolveAssemblyReference.cache
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\Application.DAL.dll.config
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\Application.DAL.dll
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\Application.DAL.pdb
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\Application.Domain.dll
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\EntityFramework.dll
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\Application.Domain.pdb
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\EntityFramework.xml
+F:\Nasir\WebApplication1\Application.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Nasir\WebApplication1\Application.DAL\obj\Debug\Application.DAL.dll
+F:\Nasir\WebApplication1\Application.DAL\obj\Debug\Application.DAL.pdb
